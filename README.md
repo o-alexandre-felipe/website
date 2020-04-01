@@ -4,12 +4,11 @@ PEG.js Website
 Source code of the [PEG.js website](https://pegjs.org). It’s a small
 [Express](http://expressjs.com/) application.
 
-Installation
 ------------
 
 Just clone the website’s repository and install its dependencies:
 
-    $ git clone https://github.com/pegjs/website.git
+    $ git clone https://github.com/o-alexandre-felipe/website.git
     $ cd website
     $ npm install
 
